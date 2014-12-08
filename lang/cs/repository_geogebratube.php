@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] => 'Nastavení GeoGebraTube úložiště';,
-$string['geogebratube:view'] => 'Use GeoGebraTube materials in file chooser';,
-$string['pluginname'] => 'Materiály z GeoGebraTube';
+$string['configplugin'] = 'Nastavení GeoGebraTube úložiště';,
+$string['geogebratube:view'] = 'Use GeoGebraTube materials in file chooser';,
+$string['pluginname'] = 'Materiály z GeoGebraTube';

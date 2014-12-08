@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] => 'GeoGebraTubes databas typkonfigurering';,
-$string['geogebratube:view'] => 'Visa material från GeoGebraTube i filväljaren';,
-$string['pluginname'] => 'Material från GeoGebraTube';
+$string['configplugin'] = 'GeoGebraTubes databas typkonfigurering';,
+$string['geogebratube:view'] = 'Visa material från GeoGebraTube i filväljaren';,
+$string['pluginname'] = 'Material från GeoGebraTube';
