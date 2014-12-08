@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] => 'Einstellungen für GeoGebraTube';,
-$string['geogebratube:view'] => 'GeoGebraTube Repository im File Picker verwenden';,
-$string['pluginname'] => 'GeoGebraTube Materialien';
+$string['configplugin'] => 'Pentru GeoGebraTube configurație de tip depozit';,
+$string['geogebratube:view'] => 'Foloseste materiale GeoGebraTube în alegerea de fișiere';,
+$string['pluginname'] => 'Materiale GeoGebraTube';
