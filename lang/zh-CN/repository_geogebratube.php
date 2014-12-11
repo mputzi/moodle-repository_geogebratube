@@ -9,5 +9,5 @@
  * @license        http://www.geogebra.org/license
  */
 $string['configplugin'] = 'GeoGebraTube 库类型配置';
-$string['geogebratube:view'] = 'Use GeoGebraTube materials in file chooser';
+$string['geogebratube:view'] = '文件选择器中使用 GeoGebraTube 素材';
 $string['pluginname'] = 'GeoGebraTube 素材';
