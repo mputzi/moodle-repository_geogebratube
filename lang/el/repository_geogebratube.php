@@ -9,5 +9,5 @@
  * @license        http://www.geogebra.org/license
  */
 $string['configplugin'] = 'Διαμόρφωση τύπου αποθήκευση του GeoGebraTube';
-$string['geogebratube:view'] = 'Use GeoGebraTube materials in file chooser';
+$string['geogebratube:view'] = 'Χρησιμοποιήστε τα έργα του GeoGebraTube στην επιλογή αρχείων';
 $string['pluginname'] = 'Έργα του GeoGebraTube';
