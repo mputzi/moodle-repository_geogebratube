@@ -12,10 +12,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2014081902; // The current plugin version (Date: YYYYMMDDXX)
+$plugin->version = 2014081903; // The current plugin version (Date: YYYYMMDDXX)
 $plugin->requires = 2014051200; // Requires this Moodle version
 $plugin->component = 'repository_geogebratube'; // Full name of the plugin (used for diagnostics).
 
 $plugin->maturity = MATURITY_RC;
 
-$plugin->release = '0.9.2';
+$plugin->release = '0.9.3';
