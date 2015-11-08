@@ -9,5 +9,5 @@
  * @license        http://www.geogebra.org/license
  */
 $string['configplugin'] = 'Nastavení GeoGebraTube úložiště';
-$string['geogebratube:view'] = 'Use GeoGebraTube materials in file chooser';
+$string['geogebratube:view'] = 'Použít materiály z GeoGebraTube ve nabídce souborů';
 $string['pluginname'] = 'Materiály z GeoGebraTube';
