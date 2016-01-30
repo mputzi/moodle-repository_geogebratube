@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] = 'GeoGebraTube repository type configuration';
-$string['geogebratube:view'] = 'Use GeoGebraTube materials in file chooser';
+$string['configplugin'] = 'GeoGebraTube opslagruimte type configuratie';
+$string['geogebratube:view'] = 'Gebruik GeoGebraTube materiaal in de keuze van bestanden';
 $string['pluginname'] = 'GeoGebraTube materiaal';
