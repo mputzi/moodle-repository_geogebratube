@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] = 'GeoGebraTuben säilytyspaikan tyypin asetukset';
-$string['geogebratube:view'] = 'Käytä GeoGebraTuben materiaaleja tiedostonvalitsimessa';
-$string['pluginname'] = 'GeoGebraTuben materiaalit';
+$string['configplugin'] = 'GeoGebran säilytyspaikan tyypin asetukset';
+$string['geogebratube:view'] = 'Käytä GeoGebran materiaaleja tiedostonvalitsimessa';
+$string['pluginname'] = 'GeoGebran materiaalit';

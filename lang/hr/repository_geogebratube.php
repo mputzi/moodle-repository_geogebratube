@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] = 'Vrsta konfiguracije GeoGebraTube repozitorija';
-$string['geogebratube:view'] = 'U izborniku datoteka koriste se GeoGebraTube uradci';
-$string['pluginname'] = 'GeoGebraTube uradci';
+$string['configplugin'] = 'Vrsta konfiguracije GeoGebra repozitorija';
+$string['geogebratube:view'] = 'U izborniku datoteka koriste se GeoGebra uradci';
+$string['pluginname'] = 'GeoGebra uradci';

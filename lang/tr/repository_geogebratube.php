@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] = 'GeoGebraTube depo tipi yapılandırması';
-$string['geogebratube:view'] = 'Dosya seçicide GeoGebraTube materyallerini kullan';
-$string['pluginname'] = 'GeoGebraTube materyalleri';
+$string['configplugin'] = 'GeoGebra depo tipi yapılandırması';
+$string['geogebratube:view'] = 'Dosya seçicide GeoGebra materyallerini kullan';
+$string['pluginname'] = 'GeoGebra materyalleri';

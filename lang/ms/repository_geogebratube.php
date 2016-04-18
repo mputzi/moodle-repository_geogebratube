@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] = 'Konfigurasi jenis repositori GeoGebraTube';
-$string['geogebratube:view'] = 'Guna bahan-bahan GeoGebraTube di pemilih fail';
-$string['pluginname'] = 'Bahan-bahan GeoGebraTube';
+$string['configplugin'] = 'Konfigurasi jenis repositori GeoGebra';
+$string['geogebratube:view'] = 'Guna bahan-bahan GeoGebra di pemilih fail';
+$string['pluginname'] = 'Bahan-bahan GeoGebra';

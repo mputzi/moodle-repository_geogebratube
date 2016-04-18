@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] = 'GeoGebraTubeko artxibo-motaren ezarpenak';
-$string['geogebratube:view'] = 'Erabili GeoGebraTubeko baliabideak artxibo-bilatzailean';
-$string['pluginname'] = 'GeoGebraTube-baliabideak';
+$string['configplugin'] = 'GeoGebrako artxibo-motaren ezarpenak';
+$string['geogebratube:view'] = 'Erabili GeoGebrako baliabideak artxibo-bilatzailean';
+$string['pluginname'] = 'GeoGebra-baliabideak';
