@@ -10,4 +10,4 @@
  */
 $string['configplugin'] = 'GeoGebra repository type configuration';
 $string['geogebratube:view'] = 'Use GeoGebra materials in file chooser';
-$string['pluginname'] = 'GeoGebra materials';
+$string['pluginname'] = 'Геогебра материалууд';
