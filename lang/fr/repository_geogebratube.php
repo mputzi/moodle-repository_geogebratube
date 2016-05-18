@@ -8,6 +8,6 @@
  * @copyright  (c) International GeoGebra Institute 2014
  * @license        http://www.geogebra.org/license
  */
-$string['configplugin'] = 'GeoGebra repository type configuration';
+$string['configplugin'] = 'configuration répertoire GeoGebra';
 $string['geogebratube:view'] = 'Utiliser des ressources GeoGebra dans la fenêtre de choix';
 $string['pluginname'] = 'Ressources GeoGebra';
