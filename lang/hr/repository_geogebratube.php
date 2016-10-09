@@ -9,5 +9,5 @@
  * @license        http://www.geogebra.org/license
  */
 $string['configplugin'] = 'Vrsta konfiguracije GeoGebra repozitorija';
-$string['geogebratube:view'] = 'U izborniku datoteka koriste se GeoGebra uradci';
-$string['pluginname'] = 'GeoGebra uradci';
+$string['geogebratube:view'] = 'U izboru datoteka rabite Geogebrine materijale';
+$string['pluginname'] = 'GeoGebra materijali';
