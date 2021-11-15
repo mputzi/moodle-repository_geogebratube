@@ -46,7 +46,7 @@ class repository_geogebratube extends repository {
     public function get_listing($path = '', $page = '') {
         $callbackurl = new moodle_url('/repository/geogebratube/callback.php');
 
-        $url = 'https://tube.geogebra.org/widgetprovider/index/widgettype/moodle'
+        $url = 'https://www.geogebra.org/widgetprovider/index/widgettype/moodle'
                 . '?url=' . urlencode($callbackurl);
 
         $list = array(
